@@ -1,0 +1,7 @@
+^newprojectpkg\.Rproj$
+^\.Rproj\.user$
+^dev$
+^_pkgdown\.yml$
+^pkgdown$
+^ci/lib$
+^\.github$
